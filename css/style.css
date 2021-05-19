@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+img {
+    width: 150px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+ul {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li {
+    margin-right: 30px;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+.testo {
+    text-align: center;
+    margin: 20px;
+}
