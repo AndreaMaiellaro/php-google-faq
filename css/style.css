@@ -33,6 +33,17 @@ a {
 }
 
 .testo {
-    text-align: center;
-    margin: 20px;
+    text-align: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 20px;
 }

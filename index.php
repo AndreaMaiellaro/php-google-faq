@@ -7,8 +7,10 @@
                 'answer' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
@@ -19,7 +21,8 @@
                 'question' => 'Come fa Google a proteggere la mia privacy e a tenere le mie informazioni al sicuro?',
                 'answer' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
@@ -36,10 +39,12 @@
                 'answer' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                
                 Ipsum, soluta et, eligendi reprehenderit corporis dolorum minus provident laborum iure explicabo odio, at porro quisquam nam veritatis eos illum error deleniti?
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.'
             ]
